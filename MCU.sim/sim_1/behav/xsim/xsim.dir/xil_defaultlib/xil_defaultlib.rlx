@@ -1,0 +1,28 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/sxm210368/MCU - top/MCU.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sim_1/new/mcu_tb.v,1667504613,verilog,,,,mcu_tb,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sim_1/new/mcu_top_tb.v,1668113341,verilog,,,,mcu_top_tb,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/Downloads/alu.v,1667502858,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/clk_div.v,,alu,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/Downloads/data_memory.v,1666926116,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/Downloads/instruction_decoder.v,,data_memory,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/Downloads/instruction_decoder.v,1668115320,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/instruction_memory/instruction_memory.srcs/sources_1/new/instruction_memory.v,,instruction_decoder,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/instruction_memory/instruction_memory.srcs/sources_1/new/instruction_memory.v,1668113120,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mcu.v,,instruction_memory,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/register/register.srcs/sources_1/new/register.v,1666904414,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/vga_driver.v,,register,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/adder.v,1663875382,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/Downloads/alu.v,,adder,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/clk_div.v,1667509800,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/comparator.v,,clock_100to25,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/comparator.v,1667428147,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/constant.v,,comparator,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/constant.v,1666229339,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/conv.v,,constant,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/conv.v,1667509830,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/Downloads/data_memory.v,,color_converter,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mcu.v,1668116776,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mcu_io.v,,mcu,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mcu_io.v,1667504847,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mcu_top.v,,mcu_io,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mcu_top.v,1668118352,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxA.v,,mcu_top,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxA.v,1667453043,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxB.v,,muxA,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxB.v,1667453052,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxC.v,,muxB,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxC.v,1667453062,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxD.v,,muxC,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/muxD.v,1667453073,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mux_in.v,,muxD,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/mux_in.v,1667369098,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/imports/sxm210368/register/register.srcs/sources_1/new/register.v,,mux_in,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/vga_driver.v,1667509763,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/vga_grid.v,,VGA_driver,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/vga_grid.v,1667509742,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/vga_out.v,,vga_grid16,,,,,,,,
+C:/Users/sxm210368/MCU - top/MCU.srcs/sources_1/new/vga_out.v,1667509579,verilog,,C:/Users/sxm210368/MCU - top/MCU.srcs/sim_1/new/mcu_top_tb.v,,vga_out,,,,,,,,
